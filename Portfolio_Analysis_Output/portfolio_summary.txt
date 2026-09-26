@@ -1,0 +1,23 @@
+PORTFOLIO RISK & REBALANCING ANALYZER
+==================================================
+
+Total Investment: ₹14,160.00
+Current Portfolio Value: ₹16,324.75
+Total Profit/Loss: ₹2,164.75
+Portfolio Return: 15.29%
+Diversification Score: 97.81/100
+
+==================================================
+Best Performer: GOOGL (116.19%)
+Worst Performer: NVDA (-71.85%)
+
+==================================================
+REBALANCING RECOMMENDATIONS
+==================================================
+
+AAPL: SELL approximately ₹338.51 (1.11 shares)
+MSFT: SELL approximately ₹1,242.41 (2.51 shares)
+NVDA: BUY approximately ₹1,594.99 (7.08 shares)
+AMZN: SELL approximately ₹431.01 (1.64 shares)
+GOOGL: BUY approximately ₹645.39 (1.87 shares)
+META: SELL approximately ₹228.46 (0.39 shares)
